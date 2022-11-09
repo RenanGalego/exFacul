@@ -7,4 +7,4 @@ def divisor(x,y):
     except ZeroDivisionError:
         print("Não se faz divisão por zero!")
 
-divisor(3,0)
+divisor(3,9)
